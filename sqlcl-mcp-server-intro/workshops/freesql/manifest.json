@@ -16,7 +16,7 @@
           "filename":"../../2-environment-set-up.md",
           "type": "freesql",
           "include": {
-              "freesql-create-freesql-account-with-vscode.md":"/developer/sqlcl-mcp-server-intro/building-blocks/tasks/freesql/create-freesql-account-with-vscode.md"
+              "freesql-create-freesql-account-with-vscode.md":"/common/building-blocks/tasks/freesql/create-freesql-account-continue-to-vscode.md"
           }
         },
          {
